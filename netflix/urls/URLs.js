@@ -1,0 +1,1 @@
+export const movie_image_path = 'https://image.tmdb.org/t/p/original/';
